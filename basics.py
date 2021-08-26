@@ -7,7 +7,7 @@ print(s)
 
 #For Loop
 
-citylist = ["nalgonda", "hyderabad","warangal","miryalaguda"]
+citylist = ["nalgonda", "hyderabad","warangal","secundrabad"]
 
 for city in citylist:
     print(city)
